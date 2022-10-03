@@ -1,0 +1,16 @@
+/Users/panrui/Desktop/hw2/src/Horn/Nano/Nano.hs:
+  hash: 0b8a1794097decb598126b03c5beab36defbebe1cf5efcc7e7dcebca7dc2fd69
+/Users/panrui/Desktop/hw2/horn.cabal:
+  hash: 393239db5d8bc1656be2497232f502c4fe1c79053f6e63e3fa200def2a89e172
+/Users/panrui/Desktop/hw2/README.md:
+  hash: c503197fe92c43fb26d4414fd50f69b183cd9808e61f32e18dacd7e372be16ff
+/Users/panrui/Desktop/hw2/src/Horn/Logic/Clauses.hs:
+  hash: b76d1bc58592e6ee5db664a716651393608b3ccc9c8144bbb3562469172d3ac3
+/Users/panrui/Desktop/hw2/src/Horn/Fixpoint/Fixpoint.hs:
+  hash: 8a8299e9de25e5a3b3e804ac2765611ad292973cb74d7c766294dbd9cd1579ed
+/Users/panrui/Desktop/hw2/src/Horn/HornVCs/HornVCs.hs:
+  hash: 68341ead03f4aee8c0ed76d13c97e36002bd50dccd2327b9d55020fd24213485
+/Users/panrui/Desktop/hw2/src/Horn/Bindings/Z3.hs:
+  hash: 3bad928bdc23e5f4180110c753db4420af175ebfaa31ee53f1c6c6f353798b6a
+/Users/panrui/Desktop/hw2/src/Horn/Monad.hs:
+  hash: d1110245943e02fd585c690ddbb64c13e141f9396924140c4407329faf50c082
